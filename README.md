@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Penguin1ce
-- 👀 I’m interested in Deep Learning.
-- 🌱 I’m currently learning MySQL and Java.
-- 💞️ I’m looking to collaborate on GPT.
-- 😄 Pronouns: ...
+- 👀 I’m interested in Large Language model and Agent.
+- 🌱 I’m currently learning Transformers.
 - ⚡ Fun fact: MACOS
 
 <!---
