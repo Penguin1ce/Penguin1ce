@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Penguin1ce
 - 👀 I’m interested in Large Language model and Agent.
-- 🌱 I’m currently learning Transformers.
+- 🌱 I’m currently learning Go.
 - ⚡ Fun fact: MACOS
 
 <!---
