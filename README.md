@@ -22,9 +22,8 @@ Penguin1ce/Penguin1ce is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
----
 
-### 🐍 GitHub 贪吃蛇
+---
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Penguin1ce/Penguin1ce/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Penguin1ce/Penguin1ce/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

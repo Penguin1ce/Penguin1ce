@@ -3,11 +3,15 @@ name: Generate contribution snake
 on:
   schedule:
     - cron: "0 0 * * *" # 每天 00:00 UTC 运行一次
-  workflow_dispatch:      # 手动触发
+  workflow_dispatch: # 手动触发
   push:
     branches:
       - main
       - master
+
+# 指定当前 workflow 里使用的 GITHUB_TOKEN 具有写权限
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -21,9 +25,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # 自定义成“黄瓜配色”的蛇：绿色身体 + 柔和绿色格点
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%2364c864&color_dots=%23e8f8d5,%23c7ef9e,%2397e165,%2368b741,%234a8b30
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2364c864
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
