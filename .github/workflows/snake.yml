@@ -25,9 +25,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # 自定义成“黄瓜配色”的蛇：绿色身体 + 柔和绿色格点
+          # 白天使用默认配色，夜间使用 GitHub Dark 调色板
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2364c864&color_dots=%23e8f8d5,%23c7ef9e,%2397e165,%2368b741,%234a8b30
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2364c864
 
       - name: Upload artifact
