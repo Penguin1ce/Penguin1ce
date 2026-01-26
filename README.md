@@ -13,8 +13,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
 
----
-
 
 <!---
 Penguin1ce/Penguin1ce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
