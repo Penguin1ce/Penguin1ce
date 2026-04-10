@@ -1,9 +1,7 @@
 ### 👋 Hi, I’m @Penguin1ce
-🚀 Backend Developer | Go / Agent / iOS Development
-
-🎓 CQU | School of Big Data and Software Engineering
-
-🎬 Apple  | iOS Development / Apple Fans
+Backend Developer | Go / Agent / iOS Development<br>
+CQU | School of Big Data and Software Engineering<br>
+Apple  | iOS Development / Apple Fans
 
 ---
 ### 🧰 Tech Stack
