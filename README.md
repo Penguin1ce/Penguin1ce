@@ -24,7 +24,14 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-<img src="https://muzimi.org/img/index/盯.webp" alt="sticker" width="40" />
+<img src="https://muzimi.org/img/index/盯.webp" alt="sticker" width="40" /> 
+
+> 「迷子でもいい、前へ進め。」—— 欢迎来到我的网站[JUMP UP](https://muzimi.org/) 🪵
+
+### Friends<img src="https://muzimi.org/img/index/加油.webp" alt="sticker" width="40" />
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97706?logo=anthropic&logoColor=white)](https://claude.ai/new)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)](https://gemini.google.com/app)
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Penguin1ce/Penguin1ce/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Penguin1ce/Penguin1ce/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
