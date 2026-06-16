@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-<img src="https://muzimi.org/img/index/盯.webp" alt="sticker" width="40" /> 
+<img src="https://images.muzimi.org/img/index/盯.webp" alt="sticker" width="40" /> 
 
 > 「迷子でもいい、前へ進め。」—— 欢迎来到我的网站[JUMP UP](https://muzimi.org/) 🪵
 
