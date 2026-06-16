@@ -1,10 +1,10 @@
-### Hi, I’m @Penguin1ce<img src="https://muzimi.org/img/index/sticker.webp" alt="sticker" width="40" />
+### Hi, I’m @Penguin1ce<img src="https://images.muzimi.org/img/index/%E9%BC%93%E6%8E%8C.webp" alt="sticker" width="40" />
 Backend Developer | Go / Agent / Server<br>
 CQU | School of Big Data and Software Engineering<br>
 Apple  | iOS Development / Apple Fans
 
 ---
-### Tech Stack<img src="https://muzimi.org/img/index/自豪.webp" alt="sticker" width="40" />
+### Tech Stack<img src="https://images.muzimi.org/img/index/%E8%87%AA%E8%B1%AA.webp" alt="sticker" width="40" />
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-009688?logo=go&logoColor=white)
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 > 「迷子でもいい、前へ進め。」—— 欢迎来到我的网站[JUMP UP](https://muzimi.org/) 🪵
 
-### Friends<img src="https://muzimi.org/img/index/加油.webp" alt="sticker" width="40" />
+### Friends<img src="https://images.muzimi.org/img/index/%E5%8A%A0%E6%B2%B9.webp" alt="sticker" width="40" />
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
 [![Claude](https://img.shields.io/badge/Claude-D97706?logo=anthropic&logoColor=white)](https://claude.ai/new)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)](https://gemini.google.com/app)
